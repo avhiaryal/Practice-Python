@@ -1,7 +1,6 @@
 #kapeed
 #import required module pytube > use "pip install forex_python" to install the module first
 
-from multiprocessing import current_process
 from forex_python.converter import CurrencyRates
 rate = CurrencyRates()
 
