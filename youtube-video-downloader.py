@@ -1,5 +1,5 @@
 #kapeed
-#import required module pytube
+#import required module pytube > use "pip install pytube" to install the module first
 import pytube
 
 video_url= input("Enter the url of the video:  ") #provide the url of the video
